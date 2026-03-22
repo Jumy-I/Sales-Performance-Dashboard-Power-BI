@@ -1,6 +1,6 @@
 # Sales-Performance-Dashboard-Power-BI-
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/406c4080-fa06-4387-99e5-0ac0b3b1fe3f" />
+<img width="1890" height="1027" alt="Image" src="https://github.com/user-attachments/assets/4d3190be-2ad5-405d-b348-2d1e2b76a693" />
 
 # Project Overview
 
@@ -82,9 +82,9 @@ Cumulative sales tracking
 
 ## 📸 Dashboard Preview
 
-Executive Overview
+# Executive Overview
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/406c4080-fa06-4387-99e5-0ac0b3b1fe3f" />
+<img width="1890" height="1027" alt="Image" src="https://github.com/user-attachments/assets/4d3190be-2ad5-405d-b348-2d1e2b76a693" />
 
 
 Profitability Analysis
