@@ -87,7 +87,9 @@ Cumulative sales tracking
 <img width="1890" height="1027" alt="Image" src="https://github.com/user-attachments/assets/4d3190be-2ad5-405d-b348-2d1e2b76a693" />
 
 
-Profitability Analysis
+# Profitability Analysis
+
+<img width="1916" height="1025" alt="Image" src="https://github.com/user-attachments/assets/206afa4d-a903-49e1-88cd-aaf12b9dd3ee" />
 
 Time Analysis
 
